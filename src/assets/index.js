@@ -1,3 +1,4 @@
 import react from './react.svg';
+import profilephoto from './profilephoto.png';
 
-export { react };
+export { react, profilephoto };
