@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { Scroller } from '../../components';
 import { profilephoto } from '../../assets/index';
 
 function Home() {
@@ -74,6 +75,11 @@ function Home() {
           </div>
         </div>
       </section>
+
+      <Scroller
+        text={`✨Have a project in mind?✨ Let's work together ✨Have a project in mind?✨ Let's work together✨Have a project in mind?✨ Let's work together`}
+        link="/contact"
+      />
     </div>
   );
 }
