@@ -34,7 +34,8 @@ function Home() {
           </div>
           <div className="md:flex-1 flex-col  ">
             <h2 className="text-lg  md:text-3xl uppercase  hover:tracking-wider tracking-wide ease-in-out duration-200 mb-2">
-              Hello 👋 I'm Kamil.
+              Hello<span className="waving-hand">👋🏻</span>
+              I'm Kamil.
             </h2>
             <h1 className=" text-3xl font-bold md:text-4xl lg:text-5xl xl:text-7xl mb-4 ">
               Frontend Developer
