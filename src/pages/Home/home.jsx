@@ -79,6 +79,7 @@ function Home() {
       <Scroller
         text={`✨Have a project in mind?✨ Let's work together ✨Have a project in mind?✨ Let's work together✨Have a project in mind?✨ Let's work together`}
         link="/contact"
+        backgroundColor="bg-yellow-300"
       />
     </div>
   );
