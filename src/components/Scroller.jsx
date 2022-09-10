@@ -10,7 +10,7 @@ function Scroller({ text, link, backgroundColor }) {
           gradient={false}
           pauseOnHover={true}
           speed={50}
-          className={`${backgroundColor} border-t-4 border-black py-2 text-3xl`}
+          className={`${backgroundColor} border-t-2 border-black py-2 text-3xl`}
         >
           {text}
         </Marquee>
