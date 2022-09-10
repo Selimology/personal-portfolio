@@ -17,7 +17,7 @@ function Contact() {
           </p>
         </div>
         <form
-          action="https://formsubmit.co/kertekin.business@gmail.com"
+          action="https://formsubmit.co/972c93d25fba02a4b2b3de31d3b4c6a5"
           method="POST"
         >
           <input type="hidden" name="_captcha" value="false" />
