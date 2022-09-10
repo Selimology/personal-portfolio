@@ -19,6 +19,7 @@ function Home() {
       />
       <Skills />
       <Projects />
+      <Notification />
     </div>
   );
 }
