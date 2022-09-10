@@ -7,7 +7,7 @@ const Projects = [
     alt: 'Project1 description descriptiondescriptiondescription',
     githublink: '#',
     websitelink: '#',
-    technologies: 'React, Node, Express, MongoDB, Redux, Tailwind',
+    technologies: 'React, Node, Express, MongoDB, Redux, Tailwind,',
   },
   {
     title: 'Project 2',
