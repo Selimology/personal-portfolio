@@ -25,7 +25,7 @@ function Header() {
           Let's Talk!
         </Link>
 
-        <nav className="col-span-2 md:row-start-1 md:col-start-2 md:col-end-3 flex items-center justify-center text-lg md:text-2xl p-3 border-black border-t-2 border-x-2 md:border-t-0 ">
+        <nav className="col-span-2 md:row-start-1 md:col-start-2 md:col-end-3 flex items-center justify-center text-xl md:text-2xl p-3 border-black border-t-2 border-x-2 md:border-t-0 ">
           <ul className="flex gap-4 p-2 max-w-xs md:max-w-lg   snap-always ">
             <li>
               <NavLink
@@ -45,16 +45,6 @@ function Header() {
                 }
               >
                 About
-              </NavLink>
-            </li>
-            <li>
-              <NavLink
-                to="/projects"
-                className={({ isActive }) =>
-                  isActive ? activeClass : undefined
-                }
-              >
-                Projects
               </NavLink>
             </li>
             <li>
