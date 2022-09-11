@@ -6,7 +6,7 @@ import { Notification } from '../../components';
 function About() {
   return (
     <>
-      <div>
+      <div className="flex flex-col h-full">
         <section className="border-x-2 border-black h-full py-10 md:py-24">
           <div className="container mx-auto px-10 md:px-20 grid gap-8 lg:grid-cols-2">
             <div>
