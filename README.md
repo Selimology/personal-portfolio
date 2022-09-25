@@ -6,7 +6,7 @@ Hey there! This is my personal portfolio website where I display my projects tha
 
 - **Framework**: [React.js](https://reactjs.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Newsletter**: [FormSubmit](https://formsubmit.co/)
+- **Contact Form**: [FormSubmit](https://formsubmit.co/)
 - **Deployment**: [Netlify](https://www.netlify.com/)
 
 ## Running Localy
