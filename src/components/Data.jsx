@@ -81,7 +81,7 @@ export const Skillsdata = [
     icon: git,
   },
   {
-    name: 'Mu5',
+    name: 'Mui5',
     icon: mu5,
   },
   {
