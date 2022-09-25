@@ -12,20 +12,19 @@ function About() {
             <div>
               <h1 className="text-3xl  md:text-5xl font-bold mb-6">My Story</h1>
               <p className="mb-2 text-base md:text-lg md:text-justify">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Aliquid neque asperiores quas fugiat, quod error expedita
-                voluptate aut. Neque dolor sapiente odio in? Voluptas eius
-                beatae officia inventore architecto asperiores! Lorem ipsum
-                dolor sit amet, consectetur adipisicing elit. Sint laboriosam
-                expedita consequatur! Odit repellat beatae quae id non incidunt.
-                Similique minus aperiam modi officiis a impedit mollitia
-                sapiente ducimus voluptatum.
+                Hi, I'm Kamil Ertekin. I'm a Frontend Developer with a passion
+                for creating beautiful and functional websites. I have a strong
+                background in web development and I'm always looking for new
+                challenges. I graduated from the Epoka University with Bachelors
+                in Computer Engineering. As a developer I love to learn new
+                things and I'm always looking for new opportunities to improve
+                my skills.
               </p>
               <p className=" text-base md:text-lg mb-6 md:text-justify ">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae,
-                mollitia nulla. Veritatis labore eveniet neque illo placeat ea
-                aliquid omnis, vel sequi sed nostrum eum soluta. Explicabo
-                deleniti consequatur eum!
+                In my free time I like to play video games, watch movies and
+                series, and I also like to read books. I'm also a big fan of new
+                Animes and Manga. More than happy to recommend you some hidden
+                gems out there.
               </p>
 
               <div className="text-xl font-bold mb-4">My socials:</div>

@@ -13,50 +13,41 @@ import {
   redux,
   github,
   linkedin,
+  nextjs,
   email,
+  projectCover,
+  projectCover2,
+  projectCover3,
   youtube,
 } from '../assets';
 
 export const Projectsdata = [
   {
-    title: 'Project 1',
+    title: 'Movie Information Platform',
     Category: 'Web App',
-    thumbnail:
-      'https://images.unsplash.com/photo-1657664065994-5e257c88b7f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1083&q=80',
-    alt: 'Project1 description descriptiondescriptiondescription',
-    githublink: '#',
-    websitelink: '#',
-    technologies: 'React, Node, Express, MongoDB, Redux, Tailwind,',
+    thumbnail: projectCover,
+    alt: 'Movie Information Platform to search for movies and tv shows',
+    githublink: 'https://github.com/Selimology/Movie-Information-Platform',
+    websitelink: 'https://movieinformationplatform.netlify.app/',
+    technologies: 'React, MU5, Redux',
   },
   {
-    title: 'Project 2',
+    title: 'PostGram - Video Sharing Social Platform',
     Category: 'Web App',
-    thumbnail:
-      'https://images.unsplash.com/photo-1657664065994-5e257c88b7f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1083&q=80',
+    thumbnail: projectCover2,
     alt: 'Project1 description',
-    githublink: '#',
-    websitelink: '#',
-    technologies: 'React, Node, Express, MongoDB',
+    githublink: 'https://github.com/Selimology/social-media-platform',
+    websitelink: 'https://social-media-platform.vercel.app/',
+    technologies: 'NextJS, Tailwind, GraphQL,Typescript, Zustand, Sanity ',
   },
   {
-    title: 'Project 3',
-    Category: 'Mobile App',
-    thumbnail:
-      'https://images.unsplash.com/photo-1661956602868-6ae368943878?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80',
-    alt: 'Project1 description',
-    githublink: '#',
-    websitelink: '#',
-    technologies: 'React, Node, Express, MongoDB',
-  },
-  {
-    title: 'Project 4',
-    thumbnail:
-      'https://images.unsplash.com/photo-1545796228-ed5ce0f83fcf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1056&q=80',
+    title: 'Portfolio Website',
     Category: 'Web App',
-    alt: 'Project1 description',
-    githublink: '#',
-    websitelink: '#',
-    technologies: 'React, Node, Express, MongoDB',
+    thumbnail: projectCover3,
+    alt: 'This is my personal portfolio website',
+    githublink: 'https://github.com/Selimology/personal-portfolio',
+    websitelink: 'https://kertekin-portfolio.netlify.app/',
+    technologies: 'React, Tailwind',
   },
 ];
 
@@ -109,6 +100,10 @@ export const Skillsdata = [
     name: 'Redux',
     icon: redux,
   },
+  {
+    name: 'NextJS',
+    icon: nextjs,
+  },
 ];
 
 export const Socialsdata = [
@@ -128,12 +123,12 @@ export const Socialsdata = [
     name: 'Linkedin',
     icon: linkedin,
     alt: 'Connect with me on Linkedin',
-    link: 'https://www.linkedin.com/in/kamil-ertekin-64a7a9208/',
+    link: 'https://www.linkedin.com/in/kertekin/',
   },
   {
     name: 'Youtube',
     icon: youtube,
     alt: 'Subscribe to my Youtube channel',
-    link: 'https://www.youtube.com/channel/UCdibH_hwX-xAy_FGJCoTkzg',
+    link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
   },
 ];

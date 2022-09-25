@@ -57,7 +57,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/in/kamil-ertekin-64a7a9208/"
+                href="https://www.linkedin.com/in/kertekin/"
                 target="_blank"
                 className="hover:text-gray-600"
                 rel="noreferrer"

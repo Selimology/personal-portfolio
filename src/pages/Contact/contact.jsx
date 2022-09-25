@@ -3,17 +3,13 @@ import React from 'react';
 function Contact() {
   return (
     <section className="border-x-2 border-black h-full py-10 md:py-24">
-      <div className="container mx-auto px-10 md:px-20 grid gap-12 lg:grid-cols-2">
+      <div className="container mx-auto px-10 md:px-20 grid gap-20 lg:grid-cols-2">
         <div>
           <h1 className="text-3xl  md:text-5xl font-bold mb-6">Contact</h1>
           <p className="mb-2 text-base md:text-lg md:text-justify">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquid
-            neque asperiores quas fugiat, quod error expedita voluptate aut.
-            Neque dolor sapiente odio in? Voluptas eius beatae officia inventore
-            architecto asperiores! Lorem ipsum dolor sit amet, consectetur
-            adipisicing elit. Sint laboriosam expedita consequatur! Odit
-            repellat beatae quae id non incidunt. Similique minus aperiam modi
-            officiis a impedit mollitia sapiente ducimus voluptatum.
+            I enjoy interacting with people from all facets of life. Let's link
+            up over Zoom, a phone call, or a cup of coffee. The quickest way to
+            get in touch with me is via email.
           </p>
         </div>
         <form
