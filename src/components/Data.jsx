@@ -38,7 +38,7 @@ export const Projectsdata = [
     alt: 'Project1 description',
     githublink: 'https://github.com/Selimology/social-media-platform',
     websitelink: 'https://social-media-platform.vercel.app/',
-    technologies: 'NextJS, Tailwind, GraphQL,Typescript, Zustand, Sanity ',
+    technologies: 'NextJS, Tailwind, Typescript, Zustand, Sanity ',
   },
   {
     title: 'Portfolio Website',
