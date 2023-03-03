@@ -48,7 +48,7 @@ function Hero() {
           <div className="flex items-baseline  justify-between sm:justify-start md:justify-start gap-4">
             <a
               className="px-4 md:px-8 py-2 md:py-4 rounded-sm bg-teal-600 hover:bg-teal-700 text-white font-bold flex gap-2 border-2 border-black"
-              href="https://drive.google.com/file/d/1w50Uirh9Bj8QJJacRRT1dt5FHDZRfx7z/view?usp=sharing"
+              href="https://drive.google.com/file/d/1qa9dIzSgHEuczNkb2Na-Z8h6HWSjyWGW/view?usp=sharing"
               aria-label="Resume"
               rel="noopener"
               target="_blank"
